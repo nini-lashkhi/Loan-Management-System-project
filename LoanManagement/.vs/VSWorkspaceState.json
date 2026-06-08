@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LoanManagement.API",
+    "\\LoanManagement.API\\Controllers",
+    "\\LoanManagement.Tests\\LoanManagement.Tests",
+    "\\LoanManagement.Tests\\LoanManagement.Tests\\Services"
+  ],
+  "SelectedNode": "\\LoanManagement.API\\Controllers\\AuthController.cs",
+  "PreviewInSolutionExplorer": false
+}
